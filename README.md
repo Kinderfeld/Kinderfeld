@@ -1,14 +1,5 @@
-programmer
+specialize in system administration, cybersecurity, and programming in bash && python.
 
-rock musician
+currently learning rust.
 
-artist
-
-community leader
-
-political activist
-
-urban guerilla
-
-i'll be your lover, i'll be forever
-i'll be tomorrow, i am anything when i'm high
+great bassist and social activist too.
