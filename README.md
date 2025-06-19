@@ -1,6 +1,6 @@
 ## _sys://transmission_of_666_
 
-I'm known as **Kinderfeld**: software developer and cybersecurity expert who enjoys building stable, clean and functional software that respects user's freedom.
+I'm known as **Kinderfeld** or **Dissenter**: software developer and cybersecurity expert who enjoys building stable, clean and functional software that respects user's freedom.
 Founded ![**Archetypum**](https://github.com/Archetypum) back in 2022.
 
 Passionate about minimalism, privacy, UNIX-like operating systems, and software freedom.
