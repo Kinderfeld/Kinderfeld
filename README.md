@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/baphomet.png" alt="Diagram" width="300"/>
+</p>
+
 ## _sys://transmission_of_666_
 
 ---
