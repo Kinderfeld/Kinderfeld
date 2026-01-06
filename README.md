@@ -29,22 +29,16 @@ Passionate about minimalism, privacy, UNIX-like operating systems, and software 
 | Project | Description |
 |---------|-------------|
 | Archetypum [tum-bash](https://github.com/Archetypum/tum-bash) | A modular Bash library designed for building easy-to-read cross-platform scripts for UNIX-like systems. |
-| Archetypum [tum-perl](https://github.com/Archetypum/tum-perl) | A modular Perl library designed for building easy-to-read cross-platform scripts for UNIX-like systems. |
 | Archetypum [theSuffocater](https://github.com/Archetypum/theSuffocater) | A security-focused toolset aimed at hardening UNIX-like systems. |
 
 ---
 
 ## _sys://contact_
 
-You can reach me via **SimpleX**:
-
-- [Click to open in SimpleX](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2Fh--vW7ZSkXPeOUpfxlFGgauQmXNFOzGoizak7Ult7cw%3D%40smp15.simplex.im%2FSNpfTZMSf-3fj6gTya3Q99yVxyFRK9hQ%23%2F%3Fv%3D1-4%26dh%3DMCowBQYDK2VuAyEAa0Sn1z_C8gzoteeH_1IjIIPzFNYvBsKKy57M2DXBv1A%253D%26q%3Dc%26srv%3Doauu4bgijybyhczbnxtlggo6hiubahmeutaqineuyy23aojpih3dajad.onion)
-- Or manually:  
-  `smp://h--vW7ZSkXPeOUpfxlFGgauQmXNFOzGoizak7Ult7cw=@smp15.simplex.im/SNpfTZMSf-3fj6gTya3Q99yVxyFRK9hQ`
+You can reach me via nothing.
 
 ---
 
 <p align="center">
   <img src="./assets/baphomet.png" alt="Diagram" width="300"/>
 </p>
-
