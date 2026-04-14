@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/baphomet.png" alt="Diagram" width="300"/>
+    <img src="./assets/baphomet.png" alt="Diagram" width="300"/>
 </p>
 
 ---
@@ -27,7 +27,7 @@ Passionate about minimalism, privacy, UNIX-like operating systems, and software 
 | Project | Description |
 |---------|-------------|
 | Archetypum [tum-bash](https://github.com/Archetypum/tum-bash) | A modular Bash library designed for building easy-to-read cross-platform scripts for UNIX-like systems. |
-
+| Kinderfeld [replace-sudo-with-doas](https://github.com/Kinderfeld/replace-sudo-with-doas) | Script that replaces the bloated sudo package with the simpler, more lightweight doas.|
 ---
 
 ## _sys://contact_
@@ -37,5 +37,5 @@ You can reach me via nothing.
 ---
 
 <p align="center">
-  <img src="./assets/baphomet.png" alt="Diagram" width="300"/>
+    <img src="./assets/baphomet.png" alt="Diagram" width="300"/>
 </p>
